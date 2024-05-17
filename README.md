@@ -7,7 +7,7 @@
 * 🖌️ Figma, Canva
 ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1X3L07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)
 -->
-# 💫 About Me:
+## 💫 About Me:
 <p align="left">
 Name: Patricia Lowis <br> Study: Universitas Ciputra 🇮🇩 | Dongseo University 🇰🇷 <br> Major: Information System for Business <br>Batch: 2021
 </p>
