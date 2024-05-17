@@ -25,10 +25,8 @@ Name: Patricia Lowis<br>Study: Universitas Ciputra 🇮🇩 | Dongseo University
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="canva" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcloud" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="swift" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IJ" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" alt="R" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" alt="RStudio" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" alt="Renpy" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" alt="XCode" width="45" height="45"/>
