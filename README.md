@@ -8,7 +8,7 @@
 ![Patricia's GitHub stats](https://github-readme-stats.vercel.app/api?username=P1X3L07&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient)
 -->
 # 💫 About Me:
-Name: Patricia Lowis<br>Study: Universitas Ciputra 🇮🇩 | Dongseo University 🇰🇷<br>Major: Information System for Business<br>Batch: 2021
+* Name: Patricia Lowis<br>Study: Universitas Ciputra 🇮🇩 | Dongseo University 🇰🇷<br>* Major: Information System for Business<br>* Batch: 2021
 
 ## 🌐 Socials:
 <p align="left">
