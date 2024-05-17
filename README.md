@@ -12,7 +12,7 @@ Name: Patricia Lowis<br>Study: Universitas Ciputra 🇮🇩 | Dongseo University
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/PatriciaLowis "><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+<a href="https://linkedin.com/in/PatriciaLowis "><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
 
 ## 🚀Tools I have used and learned:
 <p align="left">
